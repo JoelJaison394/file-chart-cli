@@ -1,0 +1,27 @@
+{
+  "name": "flie-chart-cli",
+  "version": "1.0.0",
+  "description": "The npm package is a command-line tool that counts the number of files of each type in a given directory and creates a bar chart to visualize the distribution of file types. The package uses Node.js and several npm modules, including commander, glob, cliui, and chalk-animation. The package can be customized with options to exclude certain file types and to adjust the width of the bar chart. The tool is useful for developers and system administrators who need to analyze file types in a directory and quickly visualize the results.",
+  "main": "index.js",
+  "keywords": [
+    "file",
+    "chart",
+    "cli",
+    "command-line",
+    "visualization",
+    "analysis",
+    "developer",
+    "system administrator"
+  ],
+  "author": "Joel Jaison",
+  "license": "ISC",
+  "homepage": "https://github.com/JoelJaison394/file-chart-cli.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoelJaison394/file-chart-cli.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
+
